@@ -14,7 +14,7 @@ package Soal1;
 public class Main {
     public static void main(String[] args) {
         Buku buku1 = new Buku(
-            "1038", "PBO", "Donny", 25000
+            "1106", "PBO", "Dimas", 25000
         );
 
         Buku buku2 = new Buku(
